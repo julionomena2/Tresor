@@ -1,0 +1,7 @@
+{
+    "name": "tg-antsirabe/gestion-gardes",
+    "description": "Application de gestion des gardes et indemnites - 45 TG Antsirabe",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
